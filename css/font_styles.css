@@ -122,19 +122,19 @@ q {
     .col-40{
         width: 100%;
         height: auto;
-        float:none;
+        float:left;
     }
 
     .col-50{
         width: 100%;
         height: auto;
-        float: none;
+        float: left;
     }
 
     .col-60{
         width: 100%;
         height: auto;
-        float: none;
+        float: left;
     }
 
 }
